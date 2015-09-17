@@ -30,3 +30,31 @@
 
 # Debug files
 *.dSYM/
+HW/__Previews/
+FW/Debug/cat_door.lst
+FW/Debug/cat_door.map
+FW/Debug/lib/CoreSupport/core_cm3.d
+FW/Debug/lib/CoreSupport/subdir.mk
+FW/Debug/lib/startup/startup_stm32f10x_ld_vl.d
+FW/Debug/lib/startup/subdir.mk
+FW/Debug/lib/subdir.mk
+FW/Debug/lib/syscalls.d
+FW/Debug/lib/system_stm32f10x.d
+FW/Debug/makefile
+FW/Debug/objects.mk
+FW/Debug/sources.mk
+FW/Debug/src/AdcClass.d
+FW/Debug/src/FIFOClass.d
+FW/Debug/src/UARTClass.d
+FW/Debug/src/delay_util.d
+FW/Debug/src/main.d
+FW/Debug/src/misc.d
+FW/Debug/src/motor_class.d
+FW/Debug/src/simple_GPIO.d
+FW/Debug/src/stm32f10x_adc.d
+FW/Debug/src/stm32f10x_dma.d
+FW/Debug/src/stm32f10x_gpio.d
+FW/Debug/src/stm32f10x_rcc.d
+FW/Debug/src/stm32f10x_tim.d
+FW/Debug/src/stm32f10x_usart.d
+FW/Debug/src/subdir.mk
